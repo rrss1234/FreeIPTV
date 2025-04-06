@@ -4,6 +4,18 @@ SPORTS CHANNEL
 ---------------
 #EXTINF:-1 group-title="LIVE EVEN " tvg-logo="https://i.postimg.cc/rwn28tr8/20250403-193100.png", IPL LIVE
 http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tds-images-bn.thedailystar.net/sites/default/files/styles/big_202/public/images/2023/08/18/untitled.jpg" tvg-id="<built-in function id>" group-title="LIVE EVEN", IPL LIVE 2025
+http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIVE EVEN " tvg-logo="https://tds-images-bn.thedailystar.net/sites/default/files/styles/big_202/public/images/2023/08/18/untitled.jpg", আইপিএল বাংলা
+https://re.fredflix.fun/Toffee/live.php?id=match-1&e=.m3u8
+#EXTINF:-1 group-title="LIVE EVEN " tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports LIVE
+http://103.122.74.6:8888/hls/tsports.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="LIVE EVEN", GAZI TV HD
+http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="LIVE EVEN", NAGORIK TV
+http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jP3FD3/20250223-204353.png" tvg-id="<built-in function id>" group-title="LIVE EVEN",Willow Sports
+http://103.122.74.6:8888/hls/WILLOW.HD.m3u8
 
 KOLKATA CHANNEL
 ----------------
