@@ -42,6 +42,9 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 tvg-id="16" tvg-logo="https://i.postimg.cc/027N2Zk9/Mon.png", Moon TV
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kM8sH9Jz/20250407-152000.png" group-title="KOLKATA", DD বাংলা
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/8fd382eb-7285-4e25-be5a-3e5795672ffe/2.m3u8
+
 
 BANGLADESHI CHANNEL
 --------------------
@@ -84,10 +87,17 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="19" tvg-logo="https://i.postimg.cc/85GnGb2q/20250403-190145.png", SPACE TOON
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 
+
+HINDI CHANNEL 
+--------------
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHsJq0s7/20250407-152820.png" group-title="HINDI", B4U Movie
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4557ddf5-1c4d-4249-8107-c01212b917ec/0.m3u8
 MUSIC CHANNEL
 --------------
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/W16WsyVT/masti-music.png", Masti Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHF94Bzj/B4-U-Music.png" group-title="Music", B4U Music
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.postimg.cc/WzD9jhgH/20250403-191220.png", 9x Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.postimg.cc/2Sxg0LwQ/Yrf.png", Yrf Music
