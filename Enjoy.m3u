@@ -2,11 +2,14 @@
 
 SPORTS CHANNEL 
 ---------------
+
 #EXTINF:-1 group-title="LIVE EVEN " tvg-logo="https://i.postimg.cc/rwn28tr8/20250403-193100.png", IPL LIVE
 http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIVE EVEN " tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports LIVE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRX2wB0d/Star-Sports-1-Hindi.png" group-title="SPORTS", Star Sports 1 हिन्दी
+http://drk.yasarpro.com:80/play/live.php?mac=00:1A:79:A6:7F:86&stream=39965&extension=m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports LIVE
 http://103.122.74.6:8888/hls/tsports.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="LIVE EVEN", GAZI TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
 
 KOLKATA CHANNEL
