@@ -69,7 +69,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="24" tvg-logo="https://i.postimg.cc/sDsyjzvg/boishakhi.png", Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-logo="https://i.postimg.cc/ZKWKrsfX/DBC-News.png", DBC News
-http://kst.moonplex.net:8080/CH15/tracks-v1a1/mono.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-logo="https://i.postimg.cc/hGWj4816/Jamuna-Tv.png", Jamuna News
 http://kst.moonplex.net:8080/CH5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="27" tvg-logo="https://i.postimg.cc/0y7ppp9f/20241118-164338.png", My TV
