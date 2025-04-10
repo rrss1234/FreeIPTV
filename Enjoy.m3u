@@ -3,7 +3,7 @@
 SPORTS CHANNEL 
 ---------------
 
-#EXTINF:-1 group-title="LIVE EVEN " tvg-logo="https://i.postimg.cc/rwn28tr8/20250403-193100.png", IPL LIVE
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/rwn28tr8/20250403-193100.png", IPL LIVE
 http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports LIVE
 http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
@@ -90,8 +90,6 @@ HINDI CHANNEL
 --------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHsJq0s7/20250407-152820.png" group-title="HINDI", B4U Movie
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4557ddf5-1c4d-4249-8107-c01212b917ec/0.m3u8
-MUSIC CHANNEL
---------------
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/W16WsyVT/masti-music.png", Masti Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHF94Bzj/B4-U-Music.png" group-title="Music", B4U Music
