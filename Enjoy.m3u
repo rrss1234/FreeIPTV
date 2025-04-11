@@ -59,7 +59,7 @@ http://103.163.247.39:80/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGLADESH", ATN NEWS 
 http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="15" tvg-logo="https://i.postimg.cc/mkXkT0my/Channel-9.png", Channel 9
-http://kst.moonplex.net:8080/CH6/tracks-v1a1/mono.m3u8
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8?e=1744419143&st=Lhcv9laAgyB9V3sd0Lv8cg
 #EXTINF:-1 tvg-id="17" tvg-logo="https://i.postimg.cc/fTqSs0FQ/EKHON-TV.png", Akhon Tv
 http://kst.moonplex.net:8080/CH7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="https://i.postimg.cc/HLchzXGY/Ekushe.png", Ekushe TV
