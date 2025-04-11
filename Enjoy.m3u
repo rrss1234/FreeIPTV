@@ -5,8 +5,8 @@ SPORTS CHANNEL
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/rwn28tr8/20250403-193100.png", IPL LIVE
 http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgkcHbgw/20250412-001909.png" group-title="SPORTS", PSL
-https://tvs1.aynaott.com/asports/index.m3u8?token=b0a71baeddf8007b39b629348888ca5c375cf945-2880c5e0e316f925250ebf2862e420dc-1744395332-1744394432&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv5pTFPz/20250412-002938.png" group-title="SPORTS", PSL
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVEN " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", WWE
 http://smart.bengaldigital.live/WWE/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports LIVE
