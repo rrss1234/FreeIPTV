@@ -50,6 +50,9 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 
 BANGLADESHI CHANNEL
 --------------------
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXsHZYXT/IMG-20250419-114336-875.jpg" group-title="BANGLADESH", Gazi Live Tv
+https://padmaonline.duckdns.org:8088/test_transmission/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvHxJgsD/20250312-212636.png" group-title="BANGLADESH", Channel i
 http://103.163.247.39:80/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV
