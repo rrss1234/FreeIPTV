@@ -64,9 +64,9 @@ https://tvsen5.aynascope.net/tK2BNvT68fHZ/index.m3u8?e=1746286497&u=ee45857d-e89
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGLADESH", ATN NEWS 
 https://tvs1.aynaott.com/atnnews/index.m3u8?token=e8bcb628f68a996a7ccd9136de6b6edbce020c77-95eadfb20063920fcc72ac7779568a1a-1746279434-1746278534&remote=no_check_ip
 #EXTINF:-1 tvg-id="15" tvg-logo="https://i.postimg.cc/mkXkT0my/Channel-9.png", Channel 9
-https://tvs1.aynaott.com/channel9/index.m3u8?token=e2b7f44a971b4a9696d22e33025d4315f66aa59f-63ae5ec42bd59cf8a53ac7535173b37c-1746279498-1746278598&remote=no_check_ip
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo="https://i.postimg.cc/fTqSs0FQ/EKHON-TV.png", Akhon Tv
-https://tvs1.aynaott.com/ekhontv/index.m3u8?token=a709154450e1396bdde71d083c25c0ec9c98678d-af54f335b1305ea2e23b83c2afe5dea7-1746279674-1746278774&remote=no_check_ip
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="https://i.postimg.cc/HLchzXGY/Ekushe.png", Ekushe TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i.postimg.cc/7ZcB5h5p/dipto.png", Deepto Tv TV
@@ -78,7 +78,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="24" tvg-logo="https://i.postimg.cc/sDsyjzvg/boishakhi.png", Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-logo="https://i.postimg.cc/ZKWKrsfX/DBC-News.png", DBC News
-https://tvs1.aynaott.com/dbcnews/index.m3u8?token=22a8a254a7302cd99757276376fb585cb3578c77-7d7cdcc4fffe4a1e59595e8de06d7360-1746279606-1746278706&remote=no_check_ip
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="28" tvg-logo="https://i.postimg.cc/hGWj4816/Jamuna-Tv.png", Jamuna News
 https://tvs1.aynaott.com/jamunatv/index.m3u8?token=17eff789461c17f8c360c90c276dd022745b3a1c-1be4834b859482ac3910a9c9835e6d3b-1746279623-1746278723&remote=no_check_ip
 #EXTINF:-1 tvg-id="27" tvg-logo="https://i.postimg.cc/0y7ppp9f/20241118-164338.png", My TV
