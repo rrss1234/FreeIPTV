@@ -51,6 +51,10 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 BANGLADESHI CHANNEL
 --------------------
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNn1cjGK/btv.jpg" group-title="BANGLADESH", Btv
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFeksVyOgPqCYtEguTxc3kbwX27yI8Mp7xFkqGERJ_idHMP74cFfPJWi6G&s=10" group-title="BANGLADESH", Btv Bews
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RSwXdXp/FB-IMG-1746180879001.jpg" group-title="BANGLADESH", ME Tv
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvHxJgsD/20250312-212636.png" group-title="BANGLADESH", Channel i
@@ -62,36 +66,36 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT83iPJ0IaFeEYgSgY5Po_G7xClj5wTUaLmE41rteke9_bsqqMX4lzm2Yh4&s=10" group-title="BANGLADESH", Masranga
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGLADESH", ATN NEWS 
-https://tvs1.aynaott.com/atnnews/index.m3u8?token=e8bcb628f68a996a7ccd9136de6b6edbce020c77-95eadfb20063920fcc72ac7779568a1a-1746279434-1746278534&remote=no_check_ip
-#EXTINF:-1 tvg-id="15" tvg-logo="https://i.postimg.cc/mkXkT0my/Channel-9.png", Channel 9
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706.m3u8
+#EXTINF:-1 tvg-id="15" tvg-logo="https://i.postimg.cc/mkXkT0my/Channel-9.png" group-title="BANGLADESH", Channel 9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="17" tvg-logo="https://i.postimg.cc/fTqSs0FQ/EKHON-TV.png", Akhon Tv
+#EXTINF:-1 tvg-id="17" tvg-logo="https://i.postimg.cc/fTqSs0FQ/EKHON-TV.png" group-title="BANGLADESH", Akhon Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="18" tvg-logo="https://i.postimg.cc/HLchzXGY/Ekushe.png", Ekushe TV
+#EXTINF:-1 tvg-id="18" tvg-logo="https://i.postimg.cc/HLchzXGY/Ekushe.png" group-title="BANGLADESH", Ekushe TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.postimg.cc/7ZcB5h5p/dipto.png", Deepto Tv TV
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.postimg.cc/7ZcB5h5p/dipto.png" group-title="BANGLADESH", Deepto Tv TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-logo="https://i.postimg.cc/0Q1cC4dn/Movie-Bangla.png", Movie Bangla
+#EXTINF:-1 tvg-id="29" tvg-logo="https://i.postimg.cc/0Q1cC4dn/Movie-Bangla.png" group-title="BANGLADESH", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-id="21" tvg-logo="https://i.postimg.cc/rySM2syH/20250403-184538.png", Deshi TV
+#EXTINF:-1 tvg-id="21" tvg-logo="https://i.postimg.cc/rySM2syH/20250403-184538.png" group-title="BANGLADESH", Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="24" tvg-logo="https://i.postimg.cc/sDsyjzvg/boishakhi.png", Boishakhi TV
+#EXTINF:-1 tvg-id="24" tvg-logo="https://i.postimg.cc/sDsyjzvg/boishakhi.png" group-title="BANGLADESH", Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-logo="https://i.postimg.cc/ZKWKrsfX/DBC-News.png", DBC News
+#EXTINF:-1 tvg-id="30" tvg-logo="https://i.postimg.cc/ZKWKrsfX/DBC-News.png" group-title="BANGLADESH", DBC News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="28" tvg-logo="https://i.postimg.cc/hGWj4816/Jamuna-Tv.png", Jamuna News
+#EXTINF:-1 tvg-id="28" tvg-logo="https://i.postimg.cc/hGWj4816/Jamuna-Tv.png" group-title="BANGLADESH", Jamuna News
 https://tvs1.aynaott.com/jamunatv/index.m3u8?token=17eff789461c17f8c360c90c276dd022745b3a1c-1be4834b859482ac3910a9c9835e6d3b-1746279623-1746278723&remote=no_check_ip
-#EXTINF:-1 tvg-id="27" tvg-logo="https://i.postimg.cc/0y7ppp9f/20241118-164338.png", My TV
+#EXTINF:-1 tvg-id="27" tvg-logo="https://i.postimg.cc/0y7ppp9f/20241118-164338.png" group-title="BANGLADESH", My TV
 https://mytvbangla.com/0.m3u8
-#EXTINF:-1 tvg-id="25" tvg-logo="https://i.postimg.cc/rmH06m8s/20241028-184346.png", Peace TV
+#EXTINF:-1 tvg-id="25" tvg-logo="https://i.postimg.cc/rmH06m8s/20241028-184346.png" group-title="BANGLADESH", Peace TV
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-logo="https://i.postimg.cc/jSr0LMBH/DURONTO-TV.png", Duronto TV
+#EXTINF:-1 tvg-id="32" tvg-logo="https://i.postimg.cc/jSr0LMBH/DURONTO-TV.png" group-title="BANGLADESH", Duronto TV
 https://tvs1.aynaott.com/durontotv/index.m3u8?token=c8d8e0f4c026b68a1d0d81535b66f82d07ed4d44-c361a6d615be101e3fa918c845dc421b-1746279939-1746279039&remote=no_check_ip
-#EXTINF:-1 tvg-id="9" tvg-logo="https://i.postimg.cc/TYX7wDW0/RONGEEN-TV.jpg", Rongeen TV
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.postimg.cc/TYX7wDW0/RONGEEN-TV.jpg" group-title="KIDS", Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="12" tvg-logo="https://i.postimg.cc/qqxr0RDG/20250403-185901.png", PBC Kids
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.postimg.cc/qqxr0RDG/20250403-185901.png" group-title="KIDS", PBC Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="19" tvg-logo="https://i.postimg.cc/85GnGb2q/20250403-190145.png", SPACE TOON
+#EXTINF:-1 tvg-id="19" tvg-logo="https://i.postimg.cc/85GnGb2q/20250403-190145.png" group-title="KIDS", SPACE TOON
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 
 
