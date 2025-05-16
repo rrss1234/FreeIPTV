@@ -107,15 +107,15 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 
 HINDI CHANNEL 
 --------------
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHsJq0s7/20250407-152820.png" group-title="HINDI", B4U Movie
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGcicwnkcj82wLqE5t74_BgOldWOVUm1PT2_jIdG1guc5RXakI17h0PUY&s=10" group-title="HINDI", B4U Movie
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4557ddf5-1c4d-4249-8107-c01212b917ec/0.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/W16WsyVT/masti-music.png" group-title="HINDI", Masti Music
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.postimg.cc/CLWvM5b2/20250516-193350.jpg" group-title="HINDI", Masti Subnetwork
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHF94Bzj/B4-U-Music.png" group-title="HINDI", B4U Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1GdDYJv/images-53.jpg" group-title="HINDI", B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.postimg.cc/WzD9jhgH/20250403-191220.png" group-title="HINDI", 9x Jalwa
+#EXTINF:-1 tvg-id="4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYss-MD6PDxrEE1Ab6xSewcadmLPEmIvxU0r3cnhwxiNgQ1ZhpqK5jRWt5&s=10" group-title="HINDI", 9x Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
-#EXTINF:-1 tvg-id="5" tvg-logo="https://i.postimg.cc/2Sxg0LwQ/Yrf.png" group-title="HINDI", Yrf Music
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.postimg.cc/tgb2PcSt/20250516-193402.jpg" group-title="HINDI", Yrf Music
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/5e60e1a9-c796-4bf2-ab37-a1d9c98ca0b3/4.m3u8
 #EXTINF:-1 tvg-id="12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTchw9mmVfI-jQDVSgChD2ONOivtkIqTAnnYVEU4xQSaiKtu2HF-X_oAVJ&s=10" group-title="KIDS", 9X M
 http://kst.moonplex.net:8080/CH13/index.m3u8
