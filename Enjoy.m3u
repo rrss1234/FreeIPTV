@@ -9,7 +9,7 @@ http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
 https://ayna-three.vercel.app/api/stream/eacf6c3f-0773-4bc3-a03a-cfee09f10348.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", WWE
 http://smart.bengaldigital.live/WWE/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports LIVE
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports
 http://116.204.149.16/t_sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD
 https://ayna-three.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8
