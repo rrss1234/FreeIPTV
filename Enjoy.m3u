@@ -3,14 +3,16 @@
 SPORTS CHANNEL 
 ---------------
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/rwn28tr8/20250403-193100.png", IPL LIVE
-http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTOy4ioF4ydTrXWJ9nXzuJrIH-SrC72JC4AATegTppLNEy4OYxzYFQyzT&s=10", IPL LIVE
+https://tv.bdixtv24.com/toffee/live.php?id=9b4b3941986a&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zW9f8S14/PSL.jpg" group-title="SPORTS", PSL
 https://stream2.aryzap.com/v1/018a8885b8951eb401a603639363/018a88860ada09831f17035d95dd/main.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", WWE
 http://smart.bengaldigital.live/WWE/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports
-http://116.204.149.16/t_sports/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/VckxkwXS/Ten-HD.png", Sony Ten 1
+https://tv.bdixtv24.com/toffee/live.php?id=43dcec1011e7&e=.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/VckxkwXS/Ten-HD.png", Sony Ten 2
+https://tv.bdixtv24.com/toffee/live.php?id=abc6677968ef&e=.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD
