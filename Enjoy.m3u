@@ -9,11 +9,9 @@ https://tv.bdixtv24.com/toffee/live.php?id=9b4b3941986a&e=.m3u8
 https://stream2.aryzap.com/v1/018a8885b8951eb401a603639363/018a88860ada09831f17035d95dd/main.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", WWE
 http://smart.bengaldigital.live/WWE/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/VckxkwXS/Ten-HD.png", Sony Ten 1
-https://tv.bdixtv24.com/toffee/live.php?id=43dcec1011e7&e=.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/VckxkwXS/Ten-HD.png", Sony Ten 2
-https://tv.bdixtv24.com/toffee/live.php?id=abc6677968ef&e=.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports 1
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports 2
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD
 https://ayna-three.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8
