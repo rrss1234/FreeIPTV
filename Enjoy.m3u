@@ -19,9 +19,9 @@ https://ayna-three.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3
 KOLKATA CHANNEL
 ----------------
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10" group-title="KOLKATA", STAR JALSHA HD
-http://altogether.unaux.com/Stream/?url=https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/640px-Star_Jalsha_logo_2023.png" group-title="KOLKATA", STAR JALSHA
-http://altogether.unaux.com/Stream/?url=https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180623/qf/aazug0foc.webp" group-title="KOLKATA", JALSHA MOVIES HD
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/ZRjjSzFd/20250403-190441.png" group-title=KOLKATA", Zee Bangla
@@ -89,7 +89,7 @@ http://38.96.178.201/live/EkhonTV/index.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i.postimg.cc/7ZcB5h5p/dipto.png" group-title="BANGLADESH", Deepto Tv TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-logo="https://i.postimg.cc/0Q1cC4dn/Movie-Bangla.png" group-title="BANGLADESH", Movie Bangla
+https://i.postimg.cc/0Q1cC4dn/Movie-Bangla.png" group-title="BANGLADESH", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-id="21" tvg-logo="https://i.postimg.cc/rySM2syH/20250403-184538.png" group-title="BANGLADESH", Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
