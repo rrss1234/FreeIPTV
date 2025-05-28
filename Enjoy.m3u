@@ -4,7 +4,7 @@ SPORTS CHANNEL
 ---------------
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTOy4ioF4ydTrXWJ9nXzuJrIH-SrC72JC4AATegTppLNEy4OYxzYFQyzT&s=10", IPL LIVE
-https://tv.bdixtv24.com/toffee/live.php?id=9b4b3941986a&e=.m3u8
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6QFdUS_pvXTI3mosyQeTYVd6aOw0gDm9Ya-YWUmlfTFOdmcf8iinbbQd&s=10" group-title="SPORTS", BAN vs PAK, T20i
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", WWE
