@@ -3,8 +3,8 @@
 SPORTS CHANNEL 
 ---------------
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/3rfThhsS/images-37.jpg", IPL LIVE
-http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAWEPBy1x6w4jjX4GzlQJxwjqGNShLdhmNRJHhOawfTAKdw2tjyvQ40qma&s=10", BAN vs SIG ⚽
+https://live-test.tsports.com/live-02/master_1080.m3u8?hdntl=Expires=1749592049~_GO=Generated~URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Signature=AXWJlB7Q3yzjm2gSnmfrgO44c-hvKkr0oIyuG9-xAotpIkIUzJlLdzfVx1XWjvCqszP4RhtI7qvnn1w2W2a40M6uhDQE&hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1749557013300~hmac=58aa4952e1ecb196253fca5077b37f7952cfd02583c105a724ebcde68e315ca6
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", WWE
 http://smart.bengaldigital.live/WWE/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports 1
