@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnGcobN_b5_UKkrn6aSv8FyAMU2prVzSZvjEF8LIojEM7yQ6DgGFbL2qlCu-QQMmNHyMP-uUu6bULU4ZQBb0u4O98IahmwDia-LOnwH2FQ6mntpMqiVihekwrpw4TADWGSY6Lhmj_8TNCN_SWdtXUhJyPTihjBGZYuQFgF6Y1fBF7PXUo/s1600/ban%20vs%20sl.jpg" group-title="SPORTS", BAN vs SL
-https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1752918661-OTT-live-1920.jpg" group-title="SPORTS", BAN vs PAK
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihUSmDRXGUQBZVC0M45gOamr2EMgzGzJ2mc7rCbHiu4soqSFeHsn2AX9Ys67xXeK2XDZV0-kBYTgDhW4M9_0ZRs08xnZAsUBn1e_VCEphRfJnHnOKTpniiFiBz6RSLaXXm89F9B9BpKYa6w5bPyh_eIdlD45tuJLjW2Q0TPmpmz8wkSVg/s1600/ind%20vs%20eng.jpg" group-title="SPORTS", ENG vs IND
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8
