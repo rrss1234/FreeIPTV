@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1752918661-OTT-live-1920.jpg" group-title="SPORTS", BAN vs PAK
-https://rashedan.short.gy/Bank.m3u8
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl9WoP3_3s4h1wtE3DtWjIFbSJ_aZSTXme7NYyS1NEp5D0Vvag27S27IvhyP99AmBxKoybVjo3L9UYNVTdqW7qxh8do-MSk4odUO-nRtuzECib2nIeTKwOIV5Lkfok0Qz-sKkXp7cRJqepXRz3AC9VFThSDZsT4MMgujtfUX6WGN8jBrc/s1600/star%20sports.jpg" group-title="SPORTS", Star Sports
 https://starsportshindiii.pages.dev/index.m3u8
