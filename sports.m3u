@@ -9,9 +9,9 @@ https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrx9Vf2tgrr3jdgFPrpu1jEE_M7RGIgK56p02C9a1AzbWB4D63kX5GMoRsOiekjFbU46ObpSuKCJpgBFz9TtsX0aiGGeoqAq2Opc5VuC2UVwUR4a0l0gvv3-JkMxqwjtuUWc-D3ohVFYb5LVvHhZY4pqtVfeTO0PWmHryZWG2Ayjv8Zc8/s1600/t%20sports.png" group-title="SPORTS", T Sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports 1
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/sfc07kCn/20250313-225549.png", T Sports 2
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZI TV HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4sao4QMrW4QCorCZq1Su0lV-C8jN7IXwJbCAt7VfwFIFUajCdlvq5aQJj&s=10", Ptv Sports
+https://live.incableinternet.com/v/QCZ86p6-0oo_0.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/0NbzbDp3/1753450245891.jpg", Willow Cricbuzz 
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=282231&extension=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZi Tv
 http://stvlive.net:8080/gtv/tracks-v1a1/mono.m3u8
