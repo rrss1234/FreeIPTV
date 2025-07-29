@@ -153,34 +153,34 @@ https://tvsen6.aynaott.com/GoldminesMovies/tracks-v1a1/mono.ts.m3u8
 
 ============
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNDJ5bd/20250522-024451.jpg" group-title="247", All Time Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNDJ5bd/20250522-024451.jpg" group-title="24-7", All Time Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJq8DhC4-umbKOQs5siiM6RtD5q8JgF3k6LVdU4AKP-6_El07i0dbdxlRq&s=10" group-title="247", SGCN CINEM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJq8DhC4-umbKOQs5siiM6RtD5q8JgF3k6LVdU4AKP-6_El07i0dbdxlRq&s=10" group-title="24-7", SGCN CINEM
 https://freedishbhai.vercel.app/bpk-tv/SGCN_Hindi_MOB/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mysgcn.com/img/sgcnchannels/sgcn_bangla_cinema.png" group-title="247", SCGN সিনেমা
+#EXTINF:-1 tvg-logo="https://www.mysgcn.com/img/sgcnchannels/sgcn_bangla_cinema.png" group-title="24-7", SCGN সিনেমা
 https://freedishbhai.vercel.app/bpk-tv/SGCN_Bangla_MOB/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx0DZPlqJPVFrdtyeHW9_Ib6CHpgutrwiT6j5GLiIGjg4S1bfFNHRUxKnz&s=10" group-title="247", Kolkata Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx0DZPlqJPVFrdtyeHW9_Ib6CHpgutrwiT6j5GLiIGjg4S1bfFNHRUxKnz&s=10" group-title="24-7", Kolkata Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G20mh9Lj/20250522-025124.jpg" group-title="247", Bangla Drams
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G20mh9Lj/20250522-025124.jpg" group-title="24-7", Bangla Drams
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYc8gBhr/20250522-025321.jpg" group-title="247", Bangla Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYc8gBhr/20250522-025321.jpg" group-title="24-7", Bangla Music
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkS3kyGX/20250522-030456.jpg" group-title="247", Hindi Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkS3kyGX/20250522-030456.jpg" group-title="24-7", Hindi Music
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrBhuJjFmg5TZk7hVQEBtoOs7ejO-gwOOLLe9IAfZvsBblMLMZc0ZBsM&s=10" group-title="247", Gopal Bhar
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrBhuJjFmg5TZk7hVQEBtoOs7ejO-gwOOLLe9IAfZvsBblMLMZc0ZBsM&s=10" group-title="24-7", Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26DBWLGP/20250522-030650.jpg" group-title="247", Bangla Waz
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26DBWLGP/20250522-030650.jpg" group-title="24-7", Bangla Waz
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWJVL2TV/20250522-030919.jpg" group-title="247", Bangla Kirtan
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWJVL2TV/20250522-030919.jpg" group-title="24-7", Bangla Kirtan
 https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
 
 
