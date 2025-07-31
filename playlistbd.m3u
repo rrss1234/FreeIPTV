@@ -992,24 +992,9 @@ https://video.primexsports.com/suchnews/live/playlist.m3u8
 
 ------------------------
 
-
-
-
-
-
-
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Traffic 88.8
-
-
-
 http://as12.digitalsynapsebd.com:8263/;stream.mp3
-
-
-
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Commercial 92.0
-
-
-
 http://as32.digitalsynapsebd.com:8456/;stream.mp3
 
 
@@ -1142,120 +1127,62 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 
 
 
-# Quran Playlist :-
-
------------------
 
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-Fatihah
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-Baqara
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Ali 'Imran
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", An-Nisa
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-Ma'idah
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/5.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-An'am
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-A'raf
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-Anfal
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", At-Tawbah
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/9.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Yunus
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Hud
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Yusuf
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Ar-Ra'd
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/13.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Ibrahim
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/14.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-Hijr
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", An-Nahl
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-Isra
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-Kahf
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Maryam
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Ta-Ha
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-Anbiya
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-Hajj
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/22.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-Mu'minun
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", An-Nur
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/24.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-Furqan
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Ash-Shu'ara
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", An-Naml
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3
-
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-Qasas
-
 https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3
 
 #EXTINF:-1 tvg-logo="https://iili.io/2ZLJLCl.webp" group-title="Quran.com", Al-Ankabut
