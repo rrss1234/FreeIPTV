@@ -987,3 +987,9 @@ https://stream717.duckdns.org/hls/stream1.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
+
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Traffic 88.8
+
+
+
+http://as12.digitalsynapsebd.com:8263/;stream.mp3
