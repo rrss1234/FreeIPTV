@@ -990,42 +990,89 @@ https://video.primexsports.com/suchnews/live/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Traffic 88.8
-http://as12.digitalsynapsebd.com:8263/;stream.mp3
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Commercial 92.0
-http://as32.digitalsynapsebd.com:8456/;stream.mp3
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Barishal 105.2
-http://as25.digitalsynapsebd.com:8620/;stream.mp3
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKf9HDdjEDt0uASni5UF8srpYORvJIyXZi7eReQlnTNU8W29ZLmxZpavp&s=10",Radio Today 89.6
-http://stream.zenolive.com/s0858pxyk8quv
-http://node-24.zeno.fm/0zha3rfq02quv
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://play-lh.googleusercontent.com/6VVysnffLbyVQzuuKcGlBoiq7jeAazeekaY92hIJOX87B69k6bxHooiWgHHP2UvBZHw",Dhaka FM 90.4
-http://118.179.219.244:8000/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPAWpc2wbXTll1LR3mgHz3jiFUCl6ixkGunZTAQ3_NasS7HzM88RCM8E&s=10" group-title="FM Radio 📻", 96.4 Spice FM
-https://stream.spicefmbd.com/stream.m3u8 
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://ronnichowdhury.com/wp-content/uploads/2016/12/7-RadioDhoni.jpg",Radio Dhoni 91.2
-https://stream-171.zeno.fm/2yihdjutno9tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyeWloZGp1dG5vOXR2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlMX0dnSGhJUmNTS1p4ZVNpUEliWlEiLCJpYXQiOjE3MjY2NDU0MDUsImV4cCI6MTcyNjY0NTQ2NX0.7udhdNdVsF8f6NhwVZzBwYyBtkOVrvuJkR1HQ3ngjfE
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://peoplesradio.fm/wp-content/uploads/2015/12/pr_logo.png",Peoples Radio 91.6
-http://s3.myradiostream.com:14498/;stream.mp3 
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/bc/%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%93_%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8.png",Radio Shadhin 92.4
-https://stream.zenolive.com/umq9q5uuva5tv
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Radio_Bhumi_logo.png",Radio Bhumi 92.8
-http://node-19.zeno.fm/yaqpcmhxe48uv?rj-ttl=5&rj-tok=AAABfgXkCqUAo83RYDSRIcag4Q
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/9vhbuhzmucws.jpg",Radio Dinraat 93.6
-http://103.118.79.134:8000
-https://stream-172.zeno.fm/enwcsg26wmftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlbndjc2cyNndtZnR2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikd6SVF0ems4UmgtdzJ4MkMxMG1SeHciLCJpYXQiOjE3MjY2NDUzMzgsImV4cCI6MTcyNjY0NTM5OH0.m7pDgW5cZE8lb1P76RsG2ZJ9J4K0KeAu3Lz90IqL3gg
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://mir-s3-cdn-cf.behancy.net/projects/404/9ed84155030723.Y3JvcCw3NTIsNTg4LDEwMCwxMzc.jpg",Jago FM 94.4
-http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHaCwYVv0_znaIL8-h7p-dd1JEd1lqiJ0ZQ&s",Radio Capital 94.8
-http://str.radiocapital.fm:8000/stream
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/7e/89/7e89f365-b487-4abf-af28-32196ebacce4.png",Radio Ekattor 98.4
-http://192.144.82.200:9302/;stream/1
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkMLex_2_VfVFnr4xuaxDEhw4vwZY8TPizQ&s",Radio Padma 99.2
-http://cassini.shoutca.st:9109/radiopadma.mp3 
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://media.licdn.com/dms/image/C510BAQFg5ki4t_4LHg/company-logo_200_200/0/1630595646263?e=2147483647&v=beta&t=uFtad4qTVI78Gtin7RvaY9BptIGaFPTqFl7ksRM3Zwk",BU Radio
-https://stream-176.zeno.fm/x3wb4hevj5atv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4M3diNGhldmo1YXR2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhNNldSM19IVDVHQkdiT0N4WnlITkEiLCJpYXQiOjE3MjY2NDU2NjMsImV4cCI6MTcyNjY0NTcyM30.gPXkMieQAgfNoINGpyPFyZDFZFGN3L3T49BbtKhr0Hs
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfR3ZBviA9qW2MDR_qoc3AESyPPaMRxsT8nQ&s",Radio Goongoon
-https://audio.streamcast.xyz/radio/8000/radio.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Foorti" tvg-logo="https://i.imgur.com/fWefvMl.png" group-title="FM Radio",Radio Foorti
+http://119.148.23.76:1021/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Today" tvg-logo="https://i.imgur.com/KiWU4d2.png" group-title="FM Radio",Radio Today
+http://119.148.23.76:1020/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="ABC Radio" tvg-logo="https://i.imgur.com/rkEQmk8.png" group-title="FM Radio",ABC Radio
+http://119.148.23.76:1027/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Dhaka FM" tvg-logo="https://i.imgur.com/ZshTWdI.png" group-title="FM Radio",Dhaka FM
+http://119.148.23.76:1026/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bhumi" tvg-logo="https://i.imgur.com/9kJIQCa.png" group-title="FM Radio",Radio Bhumi
+http://119.148.23.76:1022/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Peoples Radio" tvg-logo="https://i.imgur.com/0Ul7cby.png" group-title="FM Radio",Peoples Radio
+http://119.148.23.76:1023/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Shadhin" tvg-logo="https://i.imgur.com/Z5StcMQ.png" group-title="FM Radio",Radio Shadhin
+http://119.148.23.76:1024/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Next" tvg-logo="https://i.imgur.com/tFjxk3B.png" group-title="FM Radio",Radio Next
+http://119.148.23.76:1025/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Capital" tvg-logo="https://i.imgur.com/vEoqkKN.png" group-title="FM Radio",Radio Capital
+http://119.148.23.76:1028/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Padma" tvg-logo="https://i.imgur.com/b07sRkg.png" group-title="FM Radio",Radio Padma
+http://119.148.23.76:1029/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mahananda" tvg-logo="https://i.imgur.com/4RSV7g0.png" group-title="FM Radio",Radio Mahananda
+http://119.148.23.76:1030/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Sarabela" tvg-logo="https://i.imgur.com/cXbZkHd.png" group-title="FM Radio",Radio Sarabela
+http://119.148.23.76:1031/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Din Raat" tvg-logo="https://i.imgur.com/r6ndM5B.png" group-title="FM Radio",Radio Din Raat
+http://119.148.23.76:1032/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Milan" tvg-logo="https://i.imgur.com/sOkSn31.png" group-title="FM Radio",Radio Milan
+http://119.148.23.76:1033/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pori" tvg-logo="https://i.imgur.com/qqUNMSF.png" group-title="FM Radio",Radio Pori
+http://119.148.23.76:1034/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Rong" tvg-logo="https://i.imgur.com/rppn3j1.png" group-title="FM Radio",Radio Rong
+http://119.148.23.76:1035/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Dhoni" tvg-logo="https://i.imgur.com/qWW4a4k.png" group-title="FM Radio",Radio Dhoni
+http://119.148.23.76:1036/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bangla Net" tvg-logo="https://i.imgur.com/MCUXpBP.png" group-title="FM Radio",Radio Bangla Net
+http://119.148.23.76:1037/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ekattor" tvg-logo="https://i.imgur.com/ihV5Pwe.png" group-title="FM Radio",Radio Ekattor
+http://119.148.23.76:1038/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio GoonGoon" tvg-logo="https://i.imgur.com/hH4MsCk.png" group-title="FM Radio",Radio GoonGoon
+http://119.148.23.76:1039/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Swadesh" tvg-logo="https://i.imgur.com/dVEqI1c.png" group-title="FM Radio",Radio Swadesh
+http://119.148.23.76:1040/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ruposhi Bangla" tvg-logo="https://i.imgur.com/6CMcJS2.png" group-title="FM Radio",Radio Ruposhi Bangla
+http://119.148.23.76:1041/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Shohor" tvg-logo="https://i.imgur.com/V9f3bEd.png" group-title="FM Radio",Radio Shohor
+http://119.148.23.76:1042/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ullash" tvg-logo="https://i.imgur.com/kc46HgE.png" group-title="FM Radio",Radio Ullash
+http://119.148.23.76:1043/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Voice24" tvg-logo="https://i.imgur.com/QvTo0bt.png" group-title="FM Radio",Radio Voice24
+http://119.148.23.76:1044/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Amar" tvg-logo="https://i.imgur.com/awZKtHy.png" group-title="FM Radio",Radio Amar
+http://119.148.23.76:1045/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Odhuna" tvg-logo="https://i.imgur.com/Y3OZDLv.png" group-title="FM Radio",Radio Odhuna
+http://119.148.23.76:1046/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Kotha" tvg-logo="https://i.imgur.com/Olz7xA5.png" group-title="FM Radio",Radio Kotha
+http://119.148.23.76:1047/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Dinratri" tvg-logo="https://i.imgur.com/7EuChPz.png" group-title="FM Radio",Radio Dinratri
+http://119.148.23.76:1048/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Smile" tvg-logo="https://i.imgur.com/YxKHjjf.png" group-title="FM Radio",Radio Smile
+http://119.148.23.76:1049/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Borno" tvg-logo="https://i.imgur.com/V0oDQkz.png" group-title="FM Radio",Radio Borno
+http://119.148.23.76:1050/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Rhythms" tvg-logo="https://i.imgur.com/pYxEv9L.png" group-title="FM Radio",Radio Rhythms
+http://119.148.23.76:1051/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Barta" tvg-logo="https://i.imgur.com/dm6EINa.png" group-title="FM Radio",Radio Barta
+http://119.148.23.76:1052/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Vubon" tvg-logo="https://i.imgur.com/dsN8vvP.png" group-title="FM Radio",Radio Vubon
+http://119.148.23.76:1053/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bhumi FM" tvg-logo="https://i.imgur.com/nzvTtXl.png" group-title="FM Radio",Radio Bhumi FM
+http://119.148.23.76:1054/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pothik" tvg-logo="https://i.imgur.com/l7d3TTn.png" group-title="FM Radio",Radio Pothik
+http://119.148.23.76:1055/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Desh" tvg-logo="https://i.imgur.com/FqMI6dp.png" group-title="FM Radio",Radio Desh
+http://119.148.23.76:1056/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Borno Bangla" tvg-logo="https://i.imgur.com/Wpx3LzG.png" group-title="FM Radio",Radio Borno Bangla
+http://119.148.23.76:1057/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio DBC" tvg-logo="https://i.imgur.com/XChIEMM.png" group-title="FM Radio",Radio DBC
+http://119.148.23.76:1058/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Dream" tvg-logo="https://i.imgur.com/pI5BUE1.png" group-title="FM Radio",Radio Dream
+http://119.148.23.76:1059/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Kotha Bangla" tvg-logo="https://i.imgur.com/Pb7ly8C.png" group-title="FM Radio",Radio Kotha Bangla
+http://119.148.23.76:1060/;stream.mp3
 
 
 
