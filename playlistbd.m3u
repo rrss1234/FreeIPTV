@@ -989,10 +989,10 @@ https://stream717.duckdns.org/hls/stream1.m3u8
 https://video.primexsports.com/suchnews/live/playlist.m3u8
 
 
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Traffic 88.8
-http://as12.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2d/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",Bangladesh Betar Traffic 88.8
+https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Commercial 92.0
-http://as32.digitalsynapsebd.com:8456/;stream.mp3
+https://as1.digitalsynapsebd.com/proxy/bbdkka/stream
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Barishal 105.2
 http://as25.digitalsynapsebd.com:8620/;stream.mp3
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKf9HDdjEDt0uASni5UF8srpYORvJIyXZi7eReQlnTNU8W29ZLmxZpavp&s=10",Radio Today 89.6
